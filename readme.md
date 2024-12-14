@@ -1,9 +1,13 @@
-# Yu-Gi-Oh | Jo-ken-po Edition
+🎴 Yugioh Card Game - Rock, Paper, Scissors Style
 
-Jogo de jokenpo que criei para explicar conceitos de lógica de programação aplicados a jogos
+📜 Descrição
 
-conceitos abordados:
+Este é um jogo de cartas inspirado no estilo "JoKenPo" com temática do universo Yu-Gi-Oh! 🌟. O projeto é desenvolvido utilizando HTML, CSS e JavaScript, permitindo uma experiência interativa e divertida diretamente no navegador.
 
-- Armazenamento e gerenciamento de estado manual
-- Funções limpas
-- Organização de código
+💻 Tecnologias Utilizadas
+
+HTML: 🧱 Estrutura da aplicação.
+
+CSS: 🎨 Estilização e layout responsivo.
+
+JavaScript: ⚙️ Lógica do jogo e interatividade.
